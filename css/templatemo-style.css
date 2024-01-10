@@ -80,6 +80,7 @@ a:hover {
 .tm-brand-container-inner {
   max-width: 580px;
   width: 100%;
+  border-radius: 25px;
 }
 
 .tm-brand-container {
@@ -133,6 +134,7 @@ a:hover {
   background-color: #986665;
   padding: 80px 43px 70px;
   height: 100%;
+  border-radius: 25px;
 }
 
 .tm-welcome-icon {
@@ -177,6 +179,7 @@ a:hover {
   display: flex;
   align-items: center;
   text-align: center;
+  border-radius: 25px;
 }
 
 .tm-portfolio-description {
@@ -224,6 +227,7 @@ p {
   margin-right: 35px;
   background-color: white;
   padding: 54px 34px 44px;
+  border-radius: 25px;
 }
 
 .tm-contact-item:last-child {
